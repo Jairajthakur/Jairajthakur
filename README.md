@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Jairaj Singh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Jairajthakur/&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/Jairajthakur/" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Jairajthakur/&theme=" alt="https://github.com/Jairajthakur/" /></a> </p>
-
+<h3 align="center">DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD</h3>
 - 🔭 I’m currently working on **Docker**
 - 🌱 I’m currently learning **Docker**
 - 💬 Ask me about **DeVops, AWS, Cyber Security**
