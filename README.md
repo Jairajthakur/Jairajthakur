@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Docker.</br>
 - 🌱 I’m currently learning Docker.</br>
 - 💬 Ask me about DeVops, AWS, Cyber Security.</br>
-- 📫 How to reach me th.jairaj@gmail.com.</br>
+- 📫 How to reach me th.jairaj@gmail.com.
 
 ---
 
